@@ -1,0 +1,61 @@
+body {
+	background-color: #EEE;
+}
+
+#content {
+	background-color: white;
+	border-radius: 5px;
+	padding: 25px;
+	box-shadow: 10px 10px 20px 0px #696969;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.search {
+	margin-left: -15px !important;
+	margin-right: 0px !important;
+}
+/* form */
+input {
+	width: 100% !important;
+}
+
+/* user */
+#userDescription {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#userDescription h4 {
+	margin-top: 5px;
+}
+
+#userDescription .user_avatar {
+	padding: 0;
+}
+
+.user_login {
+	font-style: italic;
+}
+
+.reps_header {
+	border-bottom: 2px solid #646464;
+    margin-bottom: 10px;
+}
+
+.rep_name {
+	font-weight: bold;
+	font-size: larger;
+}
+.rep_details {
+	float: right;
+}
+
+.row {
+	margin-left: 0px;
+	margin-right: 15px;
+}
+
+a {
+	color: black;
+}
